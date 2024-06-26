@@ -1,0 +1,44 @@
+/* css */
+* {
+    border: 0px red solid;
+    box-sizing: border-box;
+}
+
+.B-style {
+    background-color: rgb(252, 233, 211);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 14px;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+.p-style {
+ 
+}
+
+h2 {
+
+}
+
+ul.daddy li, ol.daddy li{
+    color: black;
+    line-height: 20px;
+}
+
+.ul-nav-flex {
+    display: flex;
+    list-style-type: none;
+}
+
+li.nav-headings {
+    margin:auto;
+    padding: 10px;
+    font-size: 18px;
+}
+
+li {
+    padding: 5px;
+}
